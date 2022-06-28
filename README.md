@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<psiegmund>&theme=<THEME_NAME>" />
+https://github-readme-stats.vercel.app/api?username=psiegmund)](https://github.com/psiegmund/github-readme-stats
+
 
 
 <!--
